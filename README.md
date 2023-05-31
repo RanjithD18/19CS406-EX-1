@@ -55,8 +55,10 @@ s.send("acknowledgement recived from the server".encode())
  ```
 
 ## OUTPUT:
-![](https://github.com/RanjithD18/19CS406-EX-1/blob/main/Screenshot%20from%202023-05-17%2021-07-00.png)
-
+### client.py
+![](1c.png)
+### server.py
+![](1s.png)
 
 ## RESULT:
 Thus, the program to implement socket programming date and time display from client to
